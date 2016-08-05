@@ -1,0 +1,26 @@
+
+header {
+text-align: center;
+font-size: 40px;
+color: silver;
+font-weight: bold;
+text-shadow: 5px 5px 5px;
+
+
+} 
+#firstContainer {
+	background-color: lightgrey;
+	font-size: 20px;
+	padding-bottom: 5px;
+} 
+ 
+   div {
+	background-color: lightgrey;
+	font-size: 20px;  
+
+}
+  html body {
+    background-color: rgba(0,0,0,1.00);
+
+}
+
